@@ -19,3 +19,12 @@
   height: 100%;
   overflow: hidden;
 }
+
+.error {
+  text-align: center;
+  color: red;
+}
+
+.description {
+  text-align: center;
+}
